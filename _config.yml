@@ -15,6 +15,8 @@ logo: "/assets/images/noun_12327.png"
 # blog cover
 cover: "/assets/images/15452746694_3c035e2618_o.jpg"
 
+excerpt_separator: <!--more-->
+
 name: 'Diogo Lucas'
 author: 'Diogo Lucas'
 author_image: "/assets/images/author.jpg"
