@@ -11,9 +11,11 @@ description: > # this means to ignore newlines until "email:"
 
 email: diogo.lucas@gmail.com
 #blog logo
-logo: "/assets/images/noun_12327.png"
+logo: "/assets/images/valve2.png"
 # blog cover
 cover: "/assets/images/15452746694_3c035e2618_o.jpg"
+
+excerpt_separator: <!--more-->
 
 name: 'Diogo Lucas'
 author: 'Diogo Lucas'
